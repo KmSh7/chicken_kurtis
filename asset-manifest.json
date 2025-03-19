@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chicken_kurtis/static/css/main.8bdc61bd.css",
+    "main.js": "/chicken_kurtis/static/js/main.a81a5b84.js",
+    "static/js/453.f1d65644.chunk.js": "/chicken_kurtis/static/js/453.f1d65644.chunk.js",
+    "index.html": "/chicken_kurtis/index.html",
+    "main.8bdc61bd.css.map": "/chicken_kurtis/static/css/main.8bdc61bd.css.map",
+    "main.a81a5b84.js.map": "/chicken_kurtis/static/js/main.a81a5b84.js.map",
+    "453.f1d65644.chunk.js.map": "/chicken_kurtis/static/js/453.f1d65644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bdc61bd.css",
+    "static/js/main.a81a5b84.js"
+  ]
+}
