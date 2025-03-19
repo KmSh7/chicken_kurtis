@@ -1,0 +1,9 @@
+.icon{
+    height: auto;
+    width: 30px;
+    flex-grow: 0;
+}
+
+.title{
+    flex-grow: 0.3;
+}

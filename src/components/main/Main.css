@@ -1,0 +1,39 @@
+.item{
+    height: 200px;
+    width: 45.8vw;
+    background-color: rgba(255, 255, 255, 0.441);
+    box-shadow: 15px 15px 35px rgb(219, 219, 219);
+    margin: 1px;
+    border-radius: 2px ;
+    margin: 5px;
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+    flex-flow: column;
+    align-items: center;
+}
+
+.image{
+    object-fit: contain;
+    height: auto;
+    width: 32vw;
+}
+
+.description
+{
+    font-size:90%;
+    background-color: aliceblue;
+}
+
+.card_title
+{
+    flex-grow: 1;
+    background-color: rgb(240, 240, 240);
+    width: 46vw;
+}
+
+.price
+{
+    font-size:90%;
+    background-color: rgba(0, 197, 131, 0.537);
+}
