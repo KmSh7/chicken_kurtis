@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12ece59b3c083a683e69829a557fcf1f",
+    "revision": "eff6c47627c330a79c9127eb7d51ea86",
     "url": "/chicken_kurtis/index.html"
   },
   {
-    "revision": "1c419800f4271af9ba4f",
+    "revision": "ba7bb2a3b80bc4ebe609",
     "url": "/chicken_kurtis/static/css/main.2590b1b5.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chicken_kurtis/static/js/5.590d219d.chunk.js"
   },
   {
-    "revision": "1c419800f4271af9ba4f",
-    "url": "/chicken_kurtis/static/js/main.951ca9de.chunk.js"
+    "revision": "ba7bb2a3b80bc4ebe609",
+    "url": "/chicken_kurtis/static/js/main.7a67b07c.chunk.js"
   },
   {
     "revision": "efe221b68af7708cc5e7",
