@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/chicken_kurtis/static/css/main.8bdc61bd.css",
-    "main.js": "/chicken_kurtis/static/js/main.545068dd.js",
-    "static/js/453.f1d65644.chunk.js": "/chicken_kurtis/static/js/453.f1d65644.chunk.js",
-    "static/media/item11_463_fabric_cotton.jpg": "/chicken_kurtis/static/media/item11_463_fabric_cotton.8c09d205f9f7b7bc9fd6.jpg",
+    "main.css": "/chicken_kurtis/static/css/main.2590b1b5.chunk.css",
+    "main.js": "/chicken_kurtis/static/js/main.d53b6388.chunk.js",
+    "main.js.map": "/chicken_kurtis/static/js/main.d53b6388.chunk.js.map",
+    "runtime-main.js": "/chicken_kurtis/static/js/runtime-main.7ed52c80.js",
+    "runtime-main.js.map": "/chicken_kurtis/static/js/runtime-main.7ed52c80.js.map",
+    "static/js/2.1e643600.chunk.js": "/chicken_kurtis/static/js/2.1e643600.chunk.js",
+    "static/js/2.1e643600.chunk.js.map": "/chicken_kurtis/static/js/2.1e643600.chunk.js.map",
+    "static/js/3.79551a88.chunk.js": "/chicken_kurtis/static/js/3.79551a88.chunk.js",
+    "static/js/3.79551a88.chunk.js.map": "/chicken_kurtis/static/js/3.79551a88.chunk.js.map",
     "index.html": "/chicken_kurtis/index.html",
-    "main.8bdc61bd.css.map": "/chicken_kurtis/static/css/main.8bdc61bd.css.map",
-    "main.545068dd.js.map": "/chicken_kurtis/static/js/main.545068dd.js.map",
-    "453.f1d65644.chunk.js.map": "/chicken_kurtis/static/js/453.f1d65644.chunk.js.map"
+    "precache-manifest.26fd1d3c8bd71b33609e519aac13214a.js": "/chicken_kurtis/precache-manifest.26fd1d3c8bd71b33609e519aac13214a.js",
+    "service-worker.js": "/chicken_kurtis/service-worker.js",
+    "static/css/main.2590b1b5.chunk.css.map": "/chicken_kurtis/static/css/main.2590b1b5.chunk.css.map",
+    "static/js/2.1e643600.chunk.js.LICENSE.txt": "/chicken_kurtis/static/js/2.1e643600.chunk.js.LICENSE.txt",
+    "static/media/item11_463_fabric_cotton.jpg": "/chicken_kurtis/static/media/item11_463_fabric_cotton.2a37940e.jpg"
   },
   "entrypoints": [
-    "static/css/main.8bdc61bd.css",
-    "static/js/main.545068dd.js"
+    "static/js/runtime-main.7ed52c80.js",
+    "static/js/2.1e643600.chunk.js",
+    "static/css/main.2590b1b5.chunk.css",
+    "static/js/main.d53b6388.chunk.js"
   ]
 }
