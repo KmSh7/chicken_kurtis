@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chicken_kurtis/static/css/main.2590b1b5.chunk.css",
-    "main.js": "/chicken_kurtis/static/js/main.7a67b07c.chunk.js",
-    "main.js.map": "/chicken_kurtis/static/js/main.7a67b07c.chunk.js.map",
+    "main.js": "/chicken_kurtis/static/js/main.c38ebba2.chunk.js",
+    "main.js.map": "/chicken_kurtis/static/js/main.c38ebba2.chunk.js.map",
     "runtime-main.js": "/chicken_kurtis/static/js/runtime-main.92e0fef2.js",
     "runtime-main.js.map": "/chicken_kurtis/static/js/runtime-main.92e0fef2.js.map",
     "static/js/2.0a6d07c4.chunk.js": "/chicken_kurtis/static/js/2.0a6d07c4.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/5.590d219d.chunk.js": "/chicken_kurtis/static/js/5.590d219d.chunk.js",
     "static/js/5.590d219d.chunk.js.map": "/chicken_kurtis/static/js/5.590d219d.chunk.js.map",
     "index.html": "/chicken_kurtis/index.html",
-    "precache-manifest.94f8844118c85b1220411ace355e5b49.js": "/chicken_kurtis/precache-manifest.94f8844118c85b1220411ace355e5b49.js",
+    "precache-manifest.630d173c05bbbbc7d85aa58ff236a0e3.js": "/chicken_kurtis/precache-manifest.630d173c05bbbbc7d85aa58ff236a0e3.js",
     "service-worker.js": "/chicken_kurtis/service-worker.js",
     "static/css/main.2590b1b5.chunk.css.map": "/chicken_kurtis/static/css/main.2590b1b5.chunk.css.map",
     "static/js/2.0a6d07c4.chunk.js.LICENSE.txt": "/chicken_kurtis/static/js/2.0a6d07c4.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.92e0fef2.js",
     "static/js/2.0a6d07c4.chunk.js",
     "static/css/main.2590b1b5.chunk.css",
-    "static/js/main.7a67b07c.chunk.js"
+    "static/js/main.c38ebba2.chunk.js"
   ]
 }
